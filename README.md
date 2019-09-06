@@ -2,7 +2,6 @@
 A fullstack Airbnb clone using GraphQL, React, and React-Native
 
 ## Roadmap
----
 - [ ] Website registration/login
 - [ ] Deploy backend and frontend
 - [ ] App registration and login
